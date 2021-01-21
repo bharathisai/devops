@@ -1,0 +1,3 @@
+echo "hell oworld"
+ssh-keygen-t rsa
+ssh username@ip
