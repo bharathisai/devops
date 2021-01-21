@@ -1,0 +1,5 @@
+echo "hellow world"
+ssh -i pemfile.pem username@ip
+ssh-keygen-t rsa 
+ssh username@ip
+cp -R dir1 dir2
